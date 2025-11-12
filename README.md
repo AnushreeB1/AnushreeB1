@@ -1,4 +1,4 @@
-Hi, I'm Manju Shree!
+Hi, I'm Anushree!
 
 Final Year Information Science Student @ JSSSTU (Batch '26)  
 Passionate about Data Analytics, AI/ML, and Full Stack Development  
